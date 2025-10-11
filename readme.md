@@ -42,7 +42,7 @@ Die genaue Bezeichnung des Stromwandlers, die bei der Suche von Beschreibungen u
 
 ## Projektbeispiele:
 
-- [Hackster - AC Stromsensor](https://www.hackster.io/ingo-lohs/ac-current-sensor-182aff)  (Achtung: Hier wurde ein Sensor mit anderem Messverhältnis eingesetzt.)
+- [Hackster - AC Stromsensor](https://www.hackster.io/ingo-lohs/ac-current-sensor-182aff)  (Achtung: Hier wurde ein Sensor mit anderem Messverhältnis eingesetzt.)
 - [Henry’s Bench - AC Stromsensor](http://henrysbench.capnfatz.com/henrys-bench/arduino-current-measurements/ta12-100-arduino-ac-current-sensor-tutorial/) (Achtung: Hier wurde ein Sensor mit anderem Messverhältnis eingesetzt.)
 
 ## Weiterführende Hintergrundinformationen:
