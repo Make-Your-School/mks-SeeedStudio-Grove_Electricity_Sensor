@@ -32,7 +32,17 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 
 Die genaue Bezeichnung des Stromwandlers, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet TA12-200.
 
+
+## Beispiel
+
+schau dir das Minimal-Beispiel an:
+
+```c++:public/mks/parts/mks-SeeedStudio-Grove_Electricity_Sensor/examples/Grove_Electricity_Sensor_minimal/Grove_Electricity_Sensor_minimal.ino
+// look in the linked file.
+```
+
 <!-- infolist -->
+
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/) [- Stromsensor](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
