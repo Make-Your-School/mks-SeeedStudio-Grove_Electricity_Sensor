@@ -33,8 +33,6 @@ Alle weiteren Hintergrundinformationen sowie ein Beispielaufbau und alle notwend
 Die genaue Bezeichnung des Stromwandlers, die bei der Suche von Beschreibungen und Anleitungen wichtig sein kann, lautet TA12-200.
 
 <!-- infolist -->
-
-<!-- infolists -->
 ## Wichtige Links für die ersten Schritte:
 
 - [Seeed Studio Wiki](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/) [- Stromsensor](http://wiki.seeedstudio.com/Grove-Electricity_Sensor/)
